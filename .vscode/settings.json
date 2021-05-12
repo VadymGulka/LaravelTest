@@ -1,0 +1,15 @@
+{
+"files.exclude": {
+    "node_modules/": true,
+    "vendor/": true,
+    "phpunit.xml":true,
+    "webpack.mix.js":true,
+    "tests/":true,
+    "storage/": true,
+    ".editorconfig":true,
+    ".gitignore":true,
+    ".styleci.yml":true,
+    "public/":true,
+    "bootstrap/" : true,
+}
+}
